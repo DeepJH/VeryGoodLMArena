@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-**使用世界上最强大的 AI，以一种简单、免费、舒适的方式。**  
+**使用世界上最强大的 AI，以一种简单、免费、舒适的方式。😎**  
 [English](README.md)
 
 [![Platform](https://img.shields.io/badge/platform-Android-green)](#)

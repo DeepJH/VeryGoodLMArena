@@ -33,6 +33,16 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+
+    // 生成多个版本
+    splits {
+        abi {
+            isEnable = true
+            reset()
+            include("armeabi-v7a", "arm64-v8a")
+            isUniversalApk = true
+        }
+    }
 }
 
 dependencies {

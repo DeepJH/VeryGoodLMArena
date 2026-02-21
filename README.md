@@ -6,7 +6,7 @@
 </div>
 <div align="center">
 
-**Use the world's most powerful AI in a simple, free, and comfortable way.**  
+**Use the world's most powerful AI in a simple, free, and comfortable way.😎**  
 [中文](README_zh.md)
 
 [![Platform](https://img.shields.io/badge/platform-Android-green)](#)
