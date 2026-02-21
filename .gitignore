@@ -1,0 +1,52 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Build artifacts
+bin/
+gen/
+out/
+build/
+.gradle/
+ASL/
+
+# Android Studio / IntelliJ files
+.idea/
+*.iml
+*.iws
+*.ipr
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Gradle
+.gradle/
+build/
+
+# Log files
+*.log
+
+# Keystore files (IMPORTANT: never check in your signing keys)
+*.jks
+*.keystore
+*.p12
+*.properties
+
+# macOS-specific files
+.DS_Store
+
+# Mobile tools
+.navigation/
+assetpack/
