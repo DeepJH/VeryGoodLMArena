@@ -6,8 +6,8 @@
 </div>
 <div align="center">
 
-**使用世界上最强大的 AI，以一种简单、免费、舒适的方式。**  
-[English](./README_en.md)
+**Use the world's most powerful AI in a simple, free, and comfortable way.**
+[中文](README_zh.md)
 
 [![Platform](https://img.shields.io/badge/platform-Android-green)](#)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](#)
@@ -16,20 +16,20 @@
 
 ---
 
-VeryGoodLMArena 是一款专为安卓设计的轻量级应用。它通过系统 WebView 优化了 [arena.ai](https://chat.lmsys.org/) 的使用体验。让你在移动端也能像使用原生 App 一样，**简单、免费、舒适**地使用全球顶尖的大语言模型（如 gpt-5.2-high, claude 4.6, gemini 3 等）。
+VeryGoodLMArena is a lightweight app designed for Android. It optimizes the user experience of [arena.ai](https://chat.lmsys.org/) through the system's WebView. This allows you to use the world's top large language models (such as gpt-5.2-high, claude 4.6, gemini 3, etc.) on your mobile device as if you were using a native app—**simple, free, and comfortable**.
 
 ---
 
-## ✨ 项目特点
+## ✨ Features
 
-* **极致轻量**：基于系统 WebView 实现，安装包体积微乎其微，不占用多余系统资源。
-* **原生体验**：针对移动端操作逻辑进行了优化，告别浏览器标签页的繁琐。
-* **完全免费**：通过 Arena 平台直接免费使用全球最强 AI 模型。
-* **简单纯粹**：无广告、无追踪，只为提供最舒适的对话环境。
+*   **Extremely Lightweight**: Built on the system's WebView, the installation package is minimal and does not consume extra system resources.
+*   **Native Experience**: Optimized for mobile operations, saying goodbye to the cumbersomeness of browser tabs.
+*   **Completely Free**: Directly use the world's most powerful AI models for free through the Arena platform.
+*   **Simple and Pure**: No ads, no tracking, just to provide the most comfortable conversation environment.
 
 ---
 
-## 📱 实际效果 (Demo)
+## 📱 Demo
 
 <p align="center">
   <img alt="app_view" height="420" src="./images/app_view.jpg" width="189"/>
@@ -38,29 +38,29 @@ VeryGoodLMArena 是一款专为安卓设计的轻量级应用。它通过系统 
 
 ---
 
-## 🛠️ 复现与开发
+## 🛠️ Reproduction and Development
 
-这是一个旨在探索 WebView 封装技术的**练手项目**。
+This is a **practice project** aimed at exploring WebView packaging techniques.
 
-如果你对如何构建类似的应用感兴趣，或者想要自行编译本项目，可以参考仓库中详细的步骤教程：
+If you are interested in how to build a similar application, or want to compile this project yourself, you can refer to the detailed step-by-step tutorial in the repository:
 
-* [中文复现教程](./tutorial.md)
-* [English Tutorial](./tutorial_en.md)
-
----
-
-## ⚖️ 开源协议
-
-本项目采用 [MIT 协议](./LICENSE) 进行许可。你可以自由地查看、修改和分发代码。
+*   [中文复现教程](./tutorial.md)
+*   [English Tutorial](./tutorial_en.md)
 
 ---
 
-## 🚀 快速开始
+## ⚖️ License
 
-1. 在 [GitHub Releases](https://github.com/DeepJH/VeryGoodLMArena/releases) 页面下载最新的 APK 文件。
-2. 安装并打开 App。
-3. 开始与最强大的 AI 免费聊天。
+This project is licensed under the [MIT License](./LICENSE). You are free to view, modify, and distribute the code.
 
 ---
 
-> **免责声明**：本项目仅作为技术交流与练习使用，应用内展示的所有内容归原网站服务商所有。
+## 🚀 Quick Start
+
+1.  Download the latest APK file from the [GitHub Releases](https://github.com/DeepJH/VeryGoodLMArena/releases) page.
+2.  Install and open the app.
+3.  Start chatting with the most powerful AI for free.
+
+---
+
+> **Disclaimer**: This project is for technical exchange and practice purposes only. All content displayed within the app is the property of the original website service provider.
